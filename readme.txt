@@ -6,3 +6,4 @@ git hello
 add branch aaa
 conflict test simple &
 ok
+test
